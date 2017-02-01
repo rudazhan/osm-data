@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmium/1.4.1">
+  <node id="1" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm" lat="1" lon="1">
+    <tag k="name" v="x"/>
+  </node>
+  <node id="2" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm" lat="1" lon="1.0008991">
+    <tag k="name" v="a"/>
+  </node>
+  <node id="3" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm" lat="1" lon="1.0026972">
+    <tag k="name" v="b"/>
+  </node>
+  <node id="4" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm" lat="1" lon="1.0035963">
+    <tag k="name" v="s"/>
+  </node>
+  <node id="5" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm" lat="0.9991009" lon="1">
+    <tag k="name" v="y"/>
+  </node>
+  <node id="6" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm" lat="0.9991009" lon="1.0035963">
+    <tag k="name" v="t"/>
+  </node>
+  <node id="7" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm" lat="0.9982019" lon="1.0017981">
+    <tag k="name" v="c"/>
+  </node>
+  <node id="8" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm" lat="0.9973028" lon="1.0008991">
+    <tag k="name" v="v"/>
+  </node>
+  <node id="9" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm" lat="0.9973028" lon="1.0026972">
+    <tag k="name" v="w"/>
+  </node>
+  <way id="10" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm">
+    <nd ref="2"/>
+    <nd ref="3"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="ab"/>
+  </way>
+  <way id="11" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm">
+    <nd ref="3"/>
+    <nd ref="7"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="bc"/>
+  </way>
+  <way id="12" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm">
+    <nd ref="7"/>
+    <nd ref="2"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="ca"/>
+  </way>
+  <way id="13" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm">
+    <nd ref="2"/>
+    <nd ref="1"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="ax"/>
+  </way>
+  <way id="14" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm">
+    <nd ref="1"/>
+    <nd ref="5"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="xy"/>
+  </way>
+  <way id="15" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm">
+    <nd ref="5"/>
+    <nd ref="2"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="ya"/>
+  </way>
+  <way id="16" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm">
+    <nd ref="3"/>
+    <nd ref="4"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="bs"/>
+  </way>
+  <way id="17" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm">
+    <nd ref="4"/>
+    <nd ref="6"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="st"/>
+  </way>
+  <way id="18" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm">
+    <nd ref="6"/>
+    <nd ref="3"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="tb"/>
+  </way>
+  <way id="19" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm">
+    <nd ref="7"/>
+    <nd ref="8"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="cv"/>
+  </way>
+  <way id="20" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm">
+    <nd ref="8"/>
+    <nd ref="9"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="vw"/>
+  </way>
+  <way id="21" version="1" timestamp="2000-01-01T00:00:00Z" uid="1" user="osrm">
+    <nd ref="9"/>
+    <nd ref="7"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="wc"/>
+  </way>
+</osm>

@@ -1,0 +1,21 @@
+n1 Tname=x x1 y1
+n2 Tname=a x1.0008991 y1
+n3 Tname=b x1.0026972 y1
+n4 Tname=s x1.0035963 y1
+n5 Tname=y x1 y0.9991009
+n6 Tname=t x1.0035963 y0.9991009
+n7 Tname=c x1.0017981 y0.9982019
+n8 Tname=v x1.0008991 y0.9973028
+n9 Tname=w x1.0026972 y0.9973028
+w10 Thighway=primary,name=ab Nn2,n3
+w11 Thighway=primary,name=bc Nn3,n7
+w12 Thighway=primary,name=ca Nn7,n2
+w13 Thighway=primary,name=ax Nn2,n1
+w14 Thighway=primary,name=xy Nn1,n5
+w15 Thighway=primary,name=ya Nn5,n2
+w16 Thighway=primary,name=bs Nn3,n4
+w17 Thighway=primary,name=st Nn4,n6
+w18 Thighway=primary,name=tb Nn6,n3
+w19 Thighway=primary,name=cv Nn7,n8
+w20 Thighway=primary,name=vw Nn8,n9
+w21 Thighway=primary,name=wc Nn9,n7

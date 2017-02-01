@@ -1,0 +1,21 @@
+n1 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Tname=x x1 y1
+n2 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Tname=a x1.0008991 y1
+n3 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Tname=b x1.0026972 y1
+n4 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Tname=s x1.0035963 y1
+n5 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Tname=y x1 y0.9991009
+n6 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Tname=t x1.0035963 y0.9991009
+n7 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Tname=c x1.0017981 y0.9982019
+n8 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Tname=v x1.0008991 y0.9973028
+n9 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Tname=w x1.0026972 y0.9973028
+w10 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Thighway=primary,name=ab Nn2,n3
+w11 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Thighway=primary,name=bc Nn3,n7
+w12 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Thighway=primary,name=ca Nn7,n2
+w13 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Thighway=primary,name=ax Nn2,n1
+w14 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Thighway=primary,name=xy Nn1,n5
+w15 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Thighway=primary,name=ya Nn5,n2
+w16 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Thighway=primary,name=bs Nn3,n4
+w17 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Thighway=primary,name=st Nn4,n6
+w18 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Thighway=primary,name=tb Nn6,n3
+w19 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Thighway=primary,name=cv Nn7,n8
+w20 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Thighway=primary,name=vw Nn8,n9
+w21 v1 dV c0 t2000-01-01T00:00:00Z i1 uosrm Thighway=primary,name=wc Nn9,n7

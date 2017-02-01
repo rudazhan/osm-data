@@ -1,0 +1,404 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/10",
+  "properties": {
+    "highway": "primary",
+    "name": "ab",
+    "id": "way/10"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        1.0008991,
+        1
+      ],
+      [
+        1.0026972,
+        1
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/11",
+  "properties": {
+    "highway": "primary",
+    "name": "bc",
+    "id": "way/11"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        1.0026972,
+        1
+      ],
+      [
+        1.0017981,
+        0.9982019
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/12",
+  "properties": {
+    "highway": "primary",
+    "name": "ca",
+    "id": "way/12"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        1.0017981,
+        0.9982019
+      ],
+      [
+        1.0008991,
+        1
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/13",
+  "properties": {
+    "highway": "primary",
+    "name": "ax",
+    "id": "way/13"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        1.0008991,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/14",
+  "properties": {
+    "highway": "primary",
+    "name": "xy",
+    "id": "way/14"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0.9991009
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/15",
+  "properties": {
+    "highway": "primary",
+    "name": "ya",
+    "id": "way/15"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        1,
+        0.9991009
+      ],
+      [
+        1.0008991,
+        1
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/16",
+  "properties": {
+    "highway": "primary",
+    "name": "bs",
+    "id": "way/16"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        1.0026972,
+        1
+      ],
+      [
+        1.0035963,
+        1
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/17",
+  "properties": {
+    "highway": "primary",
+    "name": "st",
+    "id": "way/17"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        1.0035963,
+        1
+      ],
+      [
+        1.0035963,
+        0.9991009
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/18",
+  "properties": {
+    "highway": "primary",
+    "name": "tb",
+    "id": "way/18"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        1.0035963,
+        0.9991009
+      ],
+      [
+        1.0026972,
+        1
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/19",
+  "properties": {
+    "highway": "primary",
+    "name": "cv",
+    "id": "way/19"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        1.0017981,
+        0.9982019
+      ],
+      [
+        1.0008991,
+        0.9973028
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/20",
+  "properties": {
+    "highway": "primary",
+    "name": "vw",
+    "id": "way/20"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        1.0008991,
+        0.9973028
+      ],
+      [
+        1.0026972,
+        0.9973028
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/21",
+  "properties": {
+    "highway": "primary",
+    "name": "wc",
+    "id": "way/21"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        1.0026972,
+        0.9973028
+      ],
+      [
+        1.0017981,
+        0.9982019
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1",
+  "properties": {
+    "name": "x",
+    "id": "node/1"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1,
+      1
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2",
+  "properties": {
+    "name": "a",
+    "id": "node/2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.0008991,
+      1
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3",
+  "properties": {
+    "name": "b",
+    "id": "node/3"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.0026972,
+      1
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4",
+  "properties": {
+    "name": "s",
+    "id": "node/4"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.0035963,
+      1
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5",
+  "properties": {
+    "name": "y",
+    "id": "node/5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1,
+      0.9991009
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6",
+  "properties": {
+    "name": "t",
+    "id": "node/6"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.0035963,
+      0.9991009
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7",
+  "properties": {
+    "name": "c",
+    "id": "node/7"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.0017981,
+      0.9982019
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8",
+  "properties": {
+    "name": "v",
+    "id": "node/8"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.0008991,
+      0.9973028
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9",
+  "properties": {
+    "name": "w",
+    "id": "node/9"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.0026972,
+      0.9973028
+    ]
+  }
+}
+]
+}
