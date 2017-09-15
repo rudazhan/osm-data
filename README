@@ -1,4 +1,0 @@
-Tricks/Makeshifts:
-
-1. Remove negative signs of JOSM created objects not uploaded to OSM:
-sed -r "s/((id|ref)=')-/\1/" CoreManhattan_ways.osm > CoreManhattan_ways.sed.osm
