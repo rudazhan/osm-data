@@ -1,6 +1,5 @@
 /*.osm
 /*.pbf
 *.osrm*
-osrm/stxxl.log
-osrm/stxxl.errlog
-
+stxxl.log
+stxxl.errlog
